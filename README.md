@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 Outside of class, I continue sharpening my skills through independent learning. I've built web applications using frameworks like Django and Flask to improve my programming techniques. Of course, version control with Git allows me to manage it all. But my projects outside of class are where things really get interesting
 
 After graduation, I hope to obtain a software engineering or data science role focused on machine learning. I'm eager to tackle new challenges and make impactful contributions to the field. My journey studying computer science and AI has only just begun. I can't wait to see where it will take me next.
+
+## SKILLS
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
