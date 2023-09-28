@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I've been fascinated by technology and programming from a young age, especially the possibilities of artificial intelligence. This has lead me to pursuing my passion at Southern New Hampshire University as a computer science major with a specialization in machine learning. I spent my early years studying computer science fundamentals - algorithms, data structures, databases, and more. But I'm most excited by advanced AI concepts like neural networks and natural language processing. I've already built simple machine learning models using Python that can recognize handwritten digits and make basic predictions. However, I'm just scratching the surface of what's possible.
-
-Outside of class, I continue sharpening my skills through independent learning. I've built web applications using frameworks like Django and Flask to improve my programming techniques. Of course, version control with Git allows me to manage it all. But my projects outside of class are where things really get interesting
-
-After graduation, I hope to obtain a software engineering or data science role focused on machine learning. I'm eager to tackle new challenges and make impactful contributions to the field. My journey studying computer science and AI has only just begun. I can't wait to see where it will take me next.
+ Tevin Thomas - Aspiring Software Engineer
+I'm an ambitious computer science student eager to leverage my technical skills and experience to kickstart my career as a software engineer. Currently pursuing a BS in Computer Science at Southern New Hampshire University while actively seeking internship and new grad opportunities starting June 2023.
+I'm passionate about crafting high-quality code and learning new technologies. Excited by the opportunity to join a motivated team of developers, build innovative products, and gain hands-on experience while expanding my skills. Bringing strong foundations in languages like Python, Java, and JavaScript as well as frameworks like React and Node.js. In data analysis, I am proficient in Pandas, NumPy, Matplotlib and have experience performing exploratory data analysis, visualizations, modeling, and algorithm implementation. I have developed machine learning models using sklearn and achieved high accuracy through parameter tuning and cross-validation.
+Eager to take on new challenges and make meaningful contributions as an intern or new graduate hire! Outside of programming, I enjoy playing basketball, reading, and listening to podcasts. Always down for thought-provoking conversations and hiking adventures!
+Please feel free to contact me to discuss opportunities further. I'm excited to bring my skills, passion, and diligent work ethic to make an impact as a software engineer.
 
 ## SKILLS
 
