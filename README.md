@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Tevin Thomas - Aspiring Software Engineer
+ Tevin Thomas - 
 I'm an ambitious computer science student eager to leverage my technical skills and experience to kickstart my career as a software engineer. Currently pursuing a BS in Computer Science at Southern New Hampshire University while actively seeking internship and new grad opportunities starting June 2023.
 I'm passionate about crafting high-quality code and learning new technologies. Excited by the opportunity to join a motivated team of developers, build innovative products, and gain hands-on experience while expanding my skills. Bringing strong foundations in languages like Python, Java, and JavaScript as well as frameworks like React and Node.js. In data analysis, I am proficient in Pandas, NumPy, Matplotlib and have experience performing exploratory data analysis, visualizations, modeling, and algorithm implementation. I have developed machine learning models using sklearn and achieved high accuracy through parameter tuning and cross-validation.
 Eager to take on new challenges and make meaningful contributions as an intern or new graduate hire! Outside of programming, I enjoy playing basketball, reading, and listening to podcasts. Always down for thought-provoking conversations and hiking adventures!
