@@ -20,7 +20,7 @@ I'm a computer science student with big ambitions, striving to nurture my web de
 
 I have a deep passion for crafting top-notch code and continually expanding my technical repertoire. The prospect of joining a motivated team of developers, where we build innovative products and gain hands-on experience, truly excites me. I come equipped with a strong foundation in languages like Python, Java, and JavaScript, along with expertise in frameworks such as React and Node.js. In the realm of data analysis, I'm well-versed in Pandas, NumPy, Matplotlib, and proficient in tasks like exploratory data analysis, visualization, modeling, and algorithm implementation. I've even dabbled in machine learning, creating models using sklearn, and achieved remarkable accuracy through rigorous parameter tuning and cross-validation.
 
-I'm eager to embrace new challenges and offer my skills as an intern or fresh graduate hire. Beyond programming, I find joy in playing basketball, immersing myself in books, and tuning into podcasts. I'm always up for stimulating conversations and outdoor adventures, particularly hiking!
+ Beyond programming, I find joy in playing football, immersing myself in books, and tuning into podcasts. I'm always up for stimulating conversations and outdoor adventures, particularly hiking!
 ## SKILLS
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
