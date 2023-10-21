@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
  Tevin Thomas - 
-I'm an ambitious computer science student eager to leverage my technical skills and experience to kickstart my career as a software engineer. Currently pursuing a BS in Computer Science at Southern New Hampshire University while actively seeking internship and new grad opportunities starting June 2023.
-I'm passionate about crafting high-quality code and learning new technologies. Excited by the opportunity to join a motivated team of developers, build innovative products, and gain hands-on experience while expanding my skills. Bringing strong foundations in languages like Python, Java, and JavaScript as well as frameworks like React and Node.js. In data analysis, I am proficient in Pandas, NumPy, Matplotlib and have experience performing exploratory data analysis, visualizations, modeling, and algorithm implementation. I have developed machine learning models using sklearn and achieved high accuracy through parameter tuning and cross-validation.
-Eager to take on new challenges and make meaningful contributions as an intern or new graduate hire! Outside of programming, I enjoy playing basketball, reading, and listening to podcasts. Always down for thought-provoking conversations and hiking adventures!
-Please feel free to contact me to discuss opportunities further. I'm excited to bring my skills, passion, and diligent work ethic to make an impact as a software engineer.
+I'm a computer science student with big ambitions, striving to nurture my web development skills and venture into the realms of data analytics and data engineering with the ultimate goal of becoming a software engineer or even a Machine Learning Engineer one day. Currently, I'm working towards my BS in Computer Science at Southern New Hampshire University, with my sights set on landing internships and new graduate opportunities starting in June 2023.
 
+I have a deep passion for crafting top-notch code and continually expanding my technical repertoire. The prospect of joining a motivated team of developers, where we build innovative products and gain hands-on experience, truly excites me. I come equipped with a strong foundation in languages like Python, Java, and JavaScript, along with expertise in frameworks such as React and Node.js. In the realm of data analysis, I'm well-versed in Pandas, NumPy, Matplotlib, and proficient in tasks like exploratory data analysis, visualization, modeling, and algorithm implementation. I've even dabbled in machine learning, creating models using sklearn, and achieved remarkable accuracy through rigorous parameter tuning and cross-validation.
+
+I'm eager to embrace new challenges and offer my skills as an intern or fresh graduate hire. Beyond programming, I find joy in playing basketball, immersing myself in books, and tuning into podcasts. I'm always up for stimulating conversations and outdoor adventures, particularly hiking!
 ## SKILLS
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
