@@ -1,12 +1,9 @@
 
 # Hello, I'm Tevin Thomas 🖐🏾
 
-I'm a computer science student with big ambitions, striving to nurture my web development skills and venture into the realms of data analytics and data engineering with the ultimate goal of becoming a software engineer or even a Machine Learning Engineer one day. Currently, I'm working towards my BS in Computer Science at Southern New Hampshire University, with my sights set on landing internships and new graduate opportunities starting in June 2023.
-
-I have a deep passion for crafting top-notch code and continually expanding my technical repertoire. The prospect of joining a motivated team of developers, where we build innovative products and gain hands-on experience, truly excites me. I come equipped with a strong foundation in languages like Python, Java, and JavaScript, along with expertise in frameworks such as React and Node.js. In the realm of data analysis, I'm well-versed in Pandas, NumPy, Matplotlib, and proficient in tasks like exploratory data analysis, visualization, modeling, and algorithm implementation. I've even dabbled in machine learning, creating models using sklearn, and achieved remarkable accuracy through rigorous parameter tuning and cross-validation.
-
- Beyond programming, I find joy in playing football, immersing myself in books, and tuning into podcasts. I'm always up for stimulating conversations and outdoor adventures, particularly anything in general. 
-
+I'm a computer science student with grand aspirations, dedicated to honing my skills in web development and delving into the realms of data analytics, data engineering, and machine learning. My ultimate goal is to become a software engineer or even a Machine Learning Engineer. Currently pursuing my BS in Computer Science at Southern New Hampshire University.
+My passion lies in crafting high-quality code and continually expanding my technical expertise. The idea of joining a dynamic team of developers, where we create innovative products and gain hands-on experience, truly excites me. I possess a strong foundation in languages like Python, Java, and JavaScript, along with proficiency in frameworks such as React and Node.js. In the data analysis realm, I'm well-versed in Pandas, NumPy, and Matplotlib, excelling in exploratory data analysis, visualization, modeling, and algorithm implementation. I've also ventured into machine learning, developing models using sklearn and achieving impressive accuracy through meticulous parameter tuning and cross-validation.
+Beyond programming, I find joy in playing football, diving into books, and tuning into podcasts. I'm always eager for stimulating conversations and outdoor adventures, embracing a wide range of interests.
 # Projects
 
  
