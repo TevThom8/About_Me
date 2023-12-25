@@ -6,6 +6,12 @@ My passion lies in crafting high-quality code and continually expanding my techn
 Beyond programming, I find joy in playing football, diving into books, and tuning into podcasts. I'm always eager for stimulating conversations and outdoor adventures, embracing a wide range of interests.
 # Projects
 
+### Web Development
+
+### Data Analysis
+
+###
+
  
 # SKILLS
 
