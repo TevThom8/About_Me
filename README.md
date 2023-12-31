@@ -14,6 +14,9 @@ Beyond programming, I find joy in playing football, diving into books, and tunin
 
 ### CERTIFICATES 
 
+ 1) [DataCamp]()
+ 2) [FreeCodeCamp]()
+ 3) 
 
 
  
