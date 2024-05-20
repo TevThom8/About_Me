@@ -1,10 +1,9 @@
 
 # Hello, I'm Tevin Thomas 📊
 
-I'm a computer science student with grand aspirations, dedicated to honing my skills in web development and delving into the realms of data analytics, data science, and machine learning. My ultimate goal is to become a software engineer or even a Machine Learning Engineer. Currently pursuing my BS in Computer Science at Southern New Hampshire University.
-My passion lies in crafting high-quality code and continually expanding my technical expertise. The idea of joining a dynamic team of developers, where we create innovative products and gain hands-on experience, truly excites me.  
-Beyond programming, I find joy in playing football, diving into books, and tuning into podcasts. I'm always eager for stimulating conversations and outdoor adventures, embracing a wide range of interests.
-# Projects
+I'm a tech enthusiast with grand ambitions. I live and breathe code, constantly honing my skills in web development and exploring fascinating realms like data analytics, data science, and machine learning. My driving force is to excel in the tech world, whether that means becoming a top-notch software engineer or diving into cutting-edge fields.
+Coding is my passion – I thrive on crafting high-quality, elegant solutions and expanding my technical expertise. The idea of joining a dynamic team of developers and creating innovative products that make a real impact gets me fired up. Collaborating with brilliant minds, gaining invaluable hands-on experience, and pushing the boundaries of what's possible? That's the dream.
+
 
 ### Web Development
 
