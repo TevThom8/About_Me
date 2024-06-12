@@ -9,30 +9,12 @@ I'm a tech enthusiast with grand ambitions. I'm honing my skills in web developm
 
 That's what fires me up and keeps me coding till stupid o'clock - the thrill of creating something that reshapes what people think is doable and leaves a real dent in the universe. It's an awesome feeling, and that pursuit of excellence is what keeps me hungry and motivated.
 
-### Web Development
 
-### Data Analysis
+# Recent Projects:<br>
+<hr>
 
-### Cloud 
+### 1) [Movie Recommendation System]()
 
-### CERTIFICATES 
-
- 1) [DataCamp]()
- 2) [FreeCodeCamp]()
- 3) [Microsoft]()
- 4) [IBM]()
-    - Data Analyst Professional Certificate
-    - Data Warehouse Engineer Professional Certificate
-    - Data Engineering Professional Certificate
-    - Data Scientist Professional
-Certificate
-    
- 6) [Kaggle]()
-
-### Badges 
-
-
- 
 # SKILLS
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
