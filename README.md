@@ -13,7 +13,7 @@ That's what fires me up and keeps me coding till stupid o'clock - the thrill of 
 # Recent Projects:<br>
 <hr>
 
-### 1) [Movie Recommendation System]()
+### 1) [Movie Recommendation System](https://github.com/TevThom8/movie_recommendations_)
 
 # SKILLS
 
