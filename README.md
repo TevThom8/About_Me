@@ -19,7 +19,7 @@ Recent Projects
 
 2) Flight Status Predictor
 
-Skills
+
 # SKILLS
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,3 +29,6 @@ Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
+Let’s Connect
+
+I’m always eager to connect with fellow tech enthusiasts, potential collaborators, or anyone interested in the fascinating world of technology. Feel free to reach out to me through email, LinkedIn, or GitHub.
