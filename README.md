@@ -15,9 +15,9 @@ The thrill of creating something that reshapes what people think is doable and l
 
 Recent Projects
 
-1) Movie Recommendation System
+  -  [Movie Recommendation System]()
 
-2) Flight Status Predictor
+  -  [Flight Status Predictor]()
 
 
 # SKILLS
