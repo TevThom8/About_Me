@@ -1,23 +1,25 @@
 
 # Hello, I'm Tevin Thomas 📊 🧑🏾‍💻
 
-I'm a tech enthusiast with grand ambitions. I'm honing my skills in web development and exploring fascinating realms like data analytics, data science, and machine learning. But perhaps what truly fuels my fervor for technology is the grand ambition that burns within me the dream of becoming a trailblazer in this ever evolving landscape. Whether it's excelling as a software engineer, crafting groundbreaking applications that redefine industries, or venturing into the cutting-edge field of machine learning engineering, where I can push the boundaries of artificial intelligence, my aspirations know no bounds.
+# About Me
 
+I’m a tech enthusiast with grand ambitions, honing my skills in web development and exploring fascinating realms like data analytics, data science, and machine learning. My fervor for technology is driven by my aspiration to become a trailblazer in this ever-evolving landscape. I aim to excel as a software engineer, craft groundbreaking applications that redefine industries, and push the boundaries of artificial intelligence as a machine learning engineer.
 
-There's nothing quite like wrestling with a tough problem, putting your thinking cap on, and getting that "eureka!" moment when it all finally makes sense. With every project, I'm learning new things and sharpening my skills, because I'm just really curious and love expanding my knowledge. But what really gets me stoked is the idea of breaking new ground and doing something totally mindblowing. I dream about being on the cutting edge, coming up with fresh solutions that make people go "Whoa, how'd they pull that off?" In this crazy fast-paced tech world, I'd love the chance to make the impossible possible through sheer brainpower and ingenuity.
+# Passion for Problem-Solving
 
+There’s nothing quite like wrestling with a tough problem, putting on your thinking cap, and experiencing that “eureka!” moment when it all finally makes sense. With every project, I learn new things and sharpen my skills because I am genuinely curious and love expanding my knowledge. What truly excites me is the idea of breaking new ground and achieving mind-blowing innovations. In this fast-paced tech world, I aim to make the impossible possible through sheer brainpower and ingenuity.
 
-That's what fires me up and keeps me coding till stupid o'clock - the thrill of creating something that reshapes what people think is doable and leaves a real dent in the universe. It's an awesome feeling, and that pursuit of excellence is what keeps me hungry and motivated.
+# Motivation and Drive
 
+The thrill of creating something that reshapes what people think is doable and leaves a real dent in the universe keeps me coding until the early hours. The pursuit of excellence is what keeps me hungry and motivated.
 
-# Recent Projects:<br>
-<hr>
+Recent Projects
 
-### 1) [Movie Recommendation System](https://github.com/TevThom8/movie_recommendations_)
-<br>
+1) Movie Recommendation System
 
-### 2) [Flight Status Predictor](https://github.com/TevThom8/flight_status_prediction/blob/main/README.md)
+2) Flight Status Predictor
 
+Skills
 # SKILLS
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
